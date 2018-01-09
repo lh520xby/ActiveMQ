@@ -19,4 +19,5 @@ Windows系统测试git命令
 
 
 
-fdsafds
+测试提交的日志能不能使用中文
+
